@@ -1,0 +1,70 @@
+body{
+    font-size: 30px;
+    /* line-height: 40px; */
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #FB9832;
+}
+
+#form{
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Slabo 27px', serif;
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+#add-fruite{
+    font-size: 18px;
+    padding: 8px;
+    box-sizing: border-box;
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.row{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+.column{
+    margin: 3% 0%;
+    width: 100%;
+}
+
+#fruite-input{
+    width: 200px;
+    height: 30px;;
+    font-size: 28px;
+    margin: 10px;
+    margin-right: 16px;
+}
+
+p{
+    color:  rgb(255, 255, 255);
+    top: 0;
+    font-size: 25px;
+    margin-top: 20px; 
+}
+
+.item{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    /* margin: 0 auto; */
+    margin:  0px 10px;
+    
+}
